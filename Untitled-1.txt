@@ -1,7 +1,6 @@
 这个是测试文本
-mybatis!
-GitHub ~、
 
-
-bbbb
 创建第一个分支
+
+项目工作
+1.熟练使用github
